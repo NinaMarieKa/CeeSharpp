@@ -1,0 +1,8 @@
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\bin\Debug\Dia68.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\bin\Debug\Dia68.exe
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\bin\Debug\Dia68.pdb
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\obj\Debug\Dia68.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\obj\Debug\Dia68.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\obj\Debug\Dia68.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\obj\Debug\Dia68.exe
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia68\Dia68\obj\Debug\Dia68.pdb
