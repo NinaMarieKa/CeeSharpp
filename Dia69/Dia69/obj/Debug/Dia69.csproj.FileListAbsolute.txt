@@ -1,0 +1,8 @@
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\bin\Debug\Dia69.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\bin\Debug\Dia69.exe
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\bin\Debug\Dia69.pdb
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\obj\Debug\Dia69.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\obj\Debug\Dia69.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\obj\Debug\Dia69.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\obj\Debug\Dia69.exe
+C:\Users\Okehittaja\source\repos\CeeSharpp\Dia69\Dia69\obj\Debug\Dia69.pdb
